@@ -1,5 +1,5 @@
 {
-  "name": "@kasperskylab/templates.js",
+  "name": "templates.js",
   "version": "0.3.12",
   "author": "psychobunny <psycho.bunny@hotmail.com>",
   "description": "An ultralight and super fast templating framework",
